@@ -43,5 +43,4 @@ This theme is released under the [MIT License](LICENSE).
 **Theme Name:** Aleejaved Portfolio  
 **Version:** 1.0.0  
 **Author:** Alee Javed  
-**Requires:** WordPress 5.0+  
-**Tested up to:** WordPress 6.4+
+**Tested on:** WordPress 6.9.1
